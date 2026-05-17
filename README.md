@@ -11,7 +11,7 @@ Les stacks utilisés pour ce projet sont React, TypeScript, Vite et Tailwind CSS
 
 ## npm Packages
 
-  --> npm create vite@latest daily-coding-challenges -- --template react-ts
+  --> npm create vite@latest my_coding_lab -- --template react-ts
   --> npm install
   --> npm install lucide react
   --> npm install tailwindcss @tailwindcss/vite 
