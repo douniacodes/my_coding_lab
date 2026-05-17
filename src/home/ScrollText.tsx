@@ -40,7 +40,7 @@ export const ScrollText = () => {
       ref={container}
       className="relative w-full min-h-screen flex items-center justify-center bg-black overflow-hidden z-10"
     >
-      <p className="text text-white text-[5vw] leading-tight w-[70%] font-medium">
+      <p className="text text-white text-[4vw] leading-tight w-[70%] font-medium">
         Ce projet est un laboratoire d'Ingénieur Frontend. C'est ici que je prototype, teste et documente souvent des concepts avancés et modernes. Nous toucherons aux principes fondamentaux de Javascript, à l'optimisation de code, l'expérience utilisateur et à la Cybersécurité. 
       </p>
     </section>
