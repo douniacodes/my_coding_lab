@@ -1,4 +1,4 @@
-# DAILY CODING CHALLENGES
+# MY CODING LAB
 
 Ce projet est un laboratoire d'Ingénieur Frontend. C'est ici que je prototype, teste et documente des concepts avancés. Nous toucherons aux principes fondamentaux de Javascript, à l'optimisation de code, l'expérience utilisateur et à la Cybersécurité. 
 
