@@ -5,7 +5,7 @@ Ce projet est un laboratoire d'Ingénieur Frontend. C'est ici que je prototype, 
 Les stacks utilisés pour ce projet sont React, TypeScript, Vite et Tailwind CSS. 
 
 
-![Aperçu du site](./public/preview-codinglab.gif)
+![Aperçu du site](./public/preview-condinglab.gif)
 
 ---
 
